@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>Simple calculator</title>
+</head>
+<body>
+<form>
+<table>
+<tr>
+<td>Value1</td>
+<td><input type="text" id="val1"/></td>
+</tr>
+<tr>
+<td>Value2</td>
+<td><input type="text" id="val2"/></td>
+</tr>
+<tr>
+<td></td>
+<td><input type="submit" id="submit" onclick="calculate()"/></td>
+</tr>
+<tr>
+<td>Result</td>
+<td><input type="text" id="result" /></td>
+</tr>
+</table>
+</form>
+<script>
+function calculate() {
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      document.getElementById("result").innerHTML =
+      this.responseText;
+    }
+  };
+  xhttp.open("GET", "math?val1=20&val2=10&operator=-", true);
+  xhttp.send();
+}
+</script>
+
+</body>
+</html>
