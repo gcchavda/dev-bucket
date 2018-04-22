@@ -1,0 +1,17 @@
+E:\Projects\AutoNotifier\AutoNotifier\AutoNotifierUI\obj\Debug\AutoNotifierUI.csprojResolveAssemblyReference.cache
+E:\Projects\AutoNotifier\AutoNotifier\AutoNotifierUI\obj\Debug\AutoNotifierUI.DatabaseConnection.resources
+E:\Projects\AutoNotifier\AutoNotifier\AutoNotifierUI\obj\Debug\AutoNotifierUI.Form1.resources
+E:\Projects\AutoNotifier\AutoNotifier\AutoNotifierUI\obj\Debug\AutoNotifierUI.Properties.Resources.resources
+E:\Projects\AutoNotifier\AutoNotifier\AutoNotifierUI\obj\Debug\AutoNotifierUI.csproj.GenerateResource.cache
+E:\Projects\AutoNotifier\AutoNotifier\AutoNotifierUI\obj\Debug\AutoNotifierUI.csproj.CoreCompileInputs.cache
+E:\Projects\AutoNotifier\AutoNotifier\AutoNotifierUI\bin\Debug\AutoNotifierUI.exe.config
+E:\Projects\AutoNotifier\AutoNotifier\AutoNotifierUI\bin\Debug\AutoNotifierUI.exe
+E:\Projects\AutoNotifier\AutoNotifier\AutoNotifierUI\bin\Debug\AutoNotifierUI.pdb
+E:\Projects\AutoNotifier\AutoNotifier\AutoNotifierUI\bin\Debug\MySql.Data.dll
+E:\Projects\AutoNotifier\AutoNotifier\AutoNotifierUI\bin\Debug\Google.Protobuf.dll
+E:\Projects\AutoNotifier\AutoNotifier\AutoNotifierUI\bin\Debug\MySql.Data.xml
+E:\Projects\AutoNotifier\AutoNotifier\AutoNotifierUI\obj\Debug\AutoNotifierUI.csproj.CopyComplete
+E:\Projects\AutoNotifier\AutoNotifier\AutoNotifierUI\obj\Debug\AutoNotifierUI.exe
+E:\Projects\AutoNotifier\AutoNotifier\AutoNotifierUI\obj\Debug\AutoNotifierUI.pdb
+E:\Projects\AutoNotifier\AutoNotifier\AutoNotifierUI\obj\Debug\AutoNotifierUI.AddRuleSet.resources
+E:\Projects\AutoNotifier\AutoNotifier\AutoNotifierUI\obj\Debug\AutoNotifierUI.ViewRuleSets.resources

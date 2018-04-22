@@ -1,0 +1,28 @@
+﻿Installing assembly 'E:\Projects\AutoNotifier\AutoNotifier\AutoNotifier\bin\Debug\Auto notifier alarm.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\AutoNotifier\AutoNotifier\AutoNotifier\bin\Debug\Auto notifier alarm.InstallLog
+   assemblypath = E:\Projects\AutoNotifier\AutoNotifier\AutoNotifier\bin\Debug\Auto notifier alarm.exe
+   servicename = AutoNotifier
+Installing service MainService...
+Creating EventLog source MainService in log Application...
+Rolling back assembly 'E:\Projects\AutoNotifier\AutoNotifier\AutoNotifier\bin\Debug\Auto notifier alarm.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\AutoNotifier\AutoNotifier\AutoNotifier\bin\Debug\Auto notifier alarm.InstallLog
+   assemblypath = E:\Projects\AutoNotifier\AutoNotifier\AutoNotifier\bin\Debug\Auto notifier alarm.exe
+   servicename = AutoNotifier
+Restoring event log to previous state for source MainService.
+Installing assembly 'E:\Projects\AutoNotifier\AutoNotifier\AutoNotifier\bin\Debug\Auto notifier alarm.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\AutoNotifier\AutoNotifier\AutoNotifier\bin\Debug\Auto notifier alarm.InstallLog
+   assemblypath = E:\Projects\AutoNotifier\AutoNotifier\AutoNotifier\bin\Debug\Auto notifier alarm.exe
+Installing service MainService...
+Service MainService has been successfully installed.
+Creating EventLog source MainService in log Application...
+Committing assembly 'E:\Projects\AutoNotifier\AutoNotifier\AutoNotifier\bin\Debug\Auto notifier alarm.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\AutoNotifier\AutoNotifier\AutoNotifier\bin\Debug\Auto notifier alarm.InstallLog
+   assemblypath = E:\Projects\AutoNotifier\AutoNotifier\AutoNotifier\bin\Debug\Auto notifier alarm.exe
